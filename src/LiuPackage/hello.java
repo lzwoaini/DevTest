@@ -9,5 +9,6 @@ public class hello {
         System.out.println("hello world! liu2");
         System.out.println("hello world! 陈明瀚");
         System.out.println("hello world! LLLLLiu");
+        System.out.println("hello world! LLLLLiu2");
     }
 }
